@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Glossary</title>
+      <link>http://example.org/glossary/</link>
+      <pubDate>Sun, 20 Nov 2022 09:03:20 -0800</pubDate>
+      
+      <guid>http://example.org/glossary/</guid>
+      <description>3.5 Phase System - Actions - Action Points -</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/actions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/actions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/gamemaster/gamemaster-introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/gamemaster/gamemaster-introduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/gamemaster/gamemaster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/gamemaster/gamemaster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/gamemaster/stat-examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/gamemaster/stat-examples/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/general/3.5-phase-system/3.5-phase-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/general/3.5-phase-system/3.5-phase-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/general/3.5-phase-system/combat-phase/action-points/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/general/3.5-phase-system/combat-phase/action-points/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/general/3.5-phase-system/combat-phase/combat-phase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/general/3.5-phase-system/combat-phase/combat-phase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/general/3.5-phase-system/combat-phase/round/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/general/3.5-phase-system/combat-phase/round/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/general/3.5-phase-system/combat-phase/turn-order/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/general/3.5-phase-system/combat-phase/turn-order/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/general/3.5-phase-system/legwork-phase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/general/3.5-phase-system/legwork-phase/</guid>
+      <description>1 Week
+Legwork Activities Craft item, Professions, Gather information, Learn information, Identify, Train skills, Animal Training, Perform ritual, Recover, ect.
+Costs: Initial Ongoing Final Skill checks Initial Ongoing Final Resolution Resolution: Step by step process to determine the result of the legwork activity based on the costs/skill checks/maybe other things.
+This is where partial completion is done if it can be done. </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/general/3.5-phase-system/traveling-phase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/general/3.5-phase-system/traveling-phase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/general/degrees-of-success/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/general/degrees-of-success/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/general/durability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/general/durability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/general/general/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/general/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/general/items/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/general/items/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/general/maximum-hitpoints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/general/maximum-hitpoints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/general/recovery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/general/recovery/</guid>
+      <description>Players will heal 25% of their in one resting legwork activity.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/general/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/general/resources/</guid>
+      <description>Health Hit Points and Maximum Hit Points </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/general/resources/energy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/general/resources/energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/general/resources/health/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/general/resources/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/general/resources/resource-recovery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/general/resources/resource-recovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/general/resources/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/general/resources/resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/general/roleplay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/general/roleplay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/general/spells/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/general/spells/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/legwork-activities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/legwork-activities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/players/action-creation-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/players/action-creation-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/players/player-introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/players/player-introduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/players/players/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/players/players/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/preamble/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/preamble/</guid>
+      <description>Every tabletop roleplaying game (TTRPG) has a great challenge to meet; the TTRPG must facilitate roleplaying while simultaneously providing a system of rules to emulate a smooth game-like experience.
+This system aims to minimally constrain your world’s lore, mechanics, and magic systems by:
+Having minimal Flavor Text in the core module. Having an easy to use Spells and Action Creation System. This system also aims to disambiguate roleplay from game mechanics in a way that allows the two to happen in parallel naturally by:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/table-of-contents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/table-of-contents/</guid>
+      <description>Preamble Glossary Players Player Introduction General 3.5 Phase System Legwork Phase Legwork Activities Traveling Phase Combat Phase Round Action Points Turn Order Degrees of Success Projects/RPGSystem/SRD/General/Resources Health Energy Resource Recovery Items Durability
+Gamemaster Gamemaster Introduction Stat Examples</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/unsorted/flavor-text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/unsorted/flavor-text/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
