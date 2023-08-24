@@ -103,7 +103,7 @@
       
       <guid>http://example.org/general/3.5-phase-system/legwork-phase/</guid>
       <description>1 Week
-Legwork Activities Craft item, Professions, Gather information, Learn information, Identify, Train skills, Animal Training, Perform ritual, Recover, ect.
+Legwork Activities#Craft item, Professions, Gather information, Learn information, Identify, Train skills, Animal Training, Perform ritual, Recover, ect.
 Costs: Initial Ongoing Final Skill checks Initial Ongoing Final Resolution Resolution: Step by step process to determine the result of the legwork activity based on the costs/skill checks/maybe other things.
 This is where partial completion is done if it can be done. </description>
     </item>
@@ -177,7 +177,7 @@ This is where partial completion is done if it can be done. </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/general/resources/</guid>
-      <description>Health Hit Points and Maximum Hit Points </description>
+      <description>Health#Hit Points and Maximum Hit Points#</description>
     </item>
     
     <item>
